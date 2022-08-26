@@ -1,12 +1,12 @@
 # Javascript Projects #
 
 ### [baseball score card](baseball-score/) 
-### black jack 
-### bookmark chrome extension 
-### carousel 
-### dicee game 
-### drum kit 
-### passage people counter 
-### password generator 
-### simon game
-### snake game 
+### [black jack ](black-jack/)
+### [bookmark-chrome-extension] (bookmarkappchromeextension/)
+### [carousel](carousel/)
+### [dicee game](dicee-game/) 
+### [drum kit ](drum-kit/)
+### [passage-people-counter](passagecounter/) 
+### [password-generator] (password generator/)
+### [simon-game](simongame/)
+### [snake-game ](snakegame/)
