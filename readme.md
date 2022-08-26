@@ -1,6 +1,6 @@
 # Javascript Projects #
 
-### [baseball score card](baseball-score/) 
+### [baseball score card](baseball-score/index.html) 
 ### [black jack ](black-jack/)
 ### [bookmark chrome extension] (bookmark app chrome extension/)
 ### [carousel ](carousel/)
