@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+}
+
+.container {
+    display: grid;
+    margin: 50px auto;
+    grid-template-columns:1fr 1fr;
+    width: 60%;
+    background-color: lightblue;
+    border: 50x solid purple;
+    border-radius: 10px;
+    text-align: center;   
+    padding: 10px 0 20px;
+}
+
+.item1{
+   grid-area: 1/0.5;
+}
